@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo: Andrés Arrieta 👨‍💻 </h1>
-<h2 align="center">Soy un Full Stack con más preferencia hacia el Front-End</h2>
+<h2 align="center">Soy un Full Stack Jr con más preferencia hacia el Front-End</h2>
 
 - 🌱 Actualmente estoy aprendiendo **Testing con Jest y profundizando lo que ya sé**
 
